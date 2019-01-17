@@ -1,0 +1,13 @@
+0 2015-06-04 16:40:40 : Opened SQLite database successfully.
+1 2015-06-04 16:40:40 : Table created successfully.
+2 2015-06-04 16:40:44 : Connection to My_SQL server established.
+3 2015-06-04 16:40:45 : Server: connect from host 127.0.0.1, port 50987.
+4 2015-06-04 16:40:45 : A sensor node with sensor-id 1 has opened a new connection.
+5 2015-06-04 16:40:48 : Server: connect from host 10.166.146.252, port 42469.
+6 2015-06-04 16:40:48 : A sensor node with sensor-id 2 has opened a new connection.
+7 2015-06-04 16:41:18 : The sensor node with sensor-id 2 has closed the connection.
+8 2015-06-04 16:41:23 : Server: connect from host 10.166.146.252, port 42470.
+9 2015-06-04 16:41:23 : A sensor node with sensor-id 2 has opened a new connection.
+10 2015-06-04 16:42:16 : The sensor node with sensor-id 2 has closed the connection.
+11 2015-06-04 16:42:20 : Disconnected from SQLite database.
+12 2015-06-04 16:42:20 : Disconnected from the My_SQL database.
